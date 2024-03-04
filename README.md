@@ -13,6 +13,6 @@ Showcased strong analytical abilities in deriving actionable insights for busine
 
 **Technologies Used:**
 
-MySQL
-SQL
+MySQL,
+SQL,
 Database Management
